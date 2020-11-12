@@ -1,8 +1,8 @@
-# web-reminder-app
+#web-reminder-app
 Web Dev Reminder App Project
 
-# npm install node_modules
+#npm install node_modules
 npm install
 
-# run the app
+#run the app
 node index.js
