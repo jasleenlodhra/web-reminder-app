@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b42725-9eb9-494e-9257-0f11b2e559cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kDRIXoMQoSJYnxifXGIngt5Ru1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b42725-9eb9-494e-9257-0f11b2e559cf" name="Default Changelist" comment="" />
+      <created>1605233095623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605233095623</updated>
+      <workItem from="1605233096760" duration="364000" />
+      <workItem from="1605233801288" duration="254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1605233561311">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605233158582" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.833/-264.-1057.1920.1057@0.23.1440.833" timestamp="1605233561311" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1605233561310">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605233158579" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.833/-264.-1057.1920.1057@0.23.1440.833" timestamp="1605233561310" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1605233561309">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605233158578" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.833/-264.-1057.1920.1057@0.23.1440.833" timestamp="1605233561309" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1605233561310">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-264.-1080.1920.1080@0.0.1440.900" timestamp="1605233158581" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.833/-264.-1057.1920.1057@0.23.1440.833" timestamp="1605233561310" />
+  </component>
+</project>
